@@ -39,7 +39,7 @@
         "browser-sync": "2.27.11",
         "del": "4.0.0",
         "gulp": "4.0.0",
-        "gulp-autoprefixer": "6.0.0",
+        "gulp-autoprefixer": "8.0.0",
         "gulp-clean-css": "4.0.0",
         "gulp-header": "2.0.7",
         "gulp-plumber": "^1.2.1",
